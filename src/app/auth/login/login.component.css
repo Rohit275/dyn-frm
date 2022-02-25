@@ -1,0 +1,20 @@
+.main-wrapper {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f2f2f2;
+}
+
+mat-card {
+  width: 600px;
+  height: 300px;
+  /* margin: 2em auto; */
+  text-align: center;
+  /* margin-top: 2em; */
+}
+
+mat-form-field {
+  display: block;
+  margin: 20px;
+}
